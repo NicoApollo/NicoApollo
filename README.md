@@ -15,7 +15,7 @@
 <img align="center" alt="Nico-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt="Nico-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Nico-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="right" alt="Nico-gif" src="https://cdn.discordapp.com/attachments/837376897766785054/993986309074993213/Design_sem_nome.gif">
+<img align="right" alt="Nico-gif" height="160" width="160" src="https://cdn.discordapp.com/attachments/993982174829215764/994016415097045092/1.png">
 </div>    
 
 ##
