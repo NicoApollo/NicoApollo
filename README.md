@@ -16,7 +16,7 @@
 <img align="center" alt="Nico-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Nico-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="right" alt="Nico-gif" src="https://user-images.githubusercontent.com/107856937/177418101-04abc613-0d5d-4211-be73-35b85faaa6f0.gif">
-</div>
+</div>    
 
 ##
      
