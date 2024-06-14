@@ -1,7 +1,7 @@
 👋 Oee
 
 - 🔭 Trabalho como freelancer\Front-end
-- 🌱 Estudando front\back end e cursando Analise e desenvolvimento de sistemas
+- 🌱 Estudando front\back end
 -->
 
 <div>
